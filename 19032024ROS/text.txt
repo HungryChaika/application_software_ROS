@@ -1,0 +1,6 @@
+export ROS_MASTER_URI=http://turtlebro12.local:11311
+export ROS_HOSTNAME=192.168.50.234
+
+export ROVER_MODEL=turtlebro
+
+source devel/setup.bash
