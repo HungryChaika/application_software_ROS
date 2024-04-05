@@ -1,0 +1,31 @@
+gmapping
+	1
+	0.01
+
+move_base
+	0.5
+	0.1
+	1
+	0.5
+
+amcl
+	1000
+	4000
+	5.0
+
+==============================
+base params:
+	-> 1m28s
+	<- 48s50ms
+change amcl:
+	-> 1m10s46ms
+	<- 47s50ms
+change gmapping:
+	-> 38s83ms
+	<- 43s07ms
+change move_base:
+	-> 32s23ms
+	<- 33s9ms
+change all:
+	-> 33s
+	<- 31s98ms
